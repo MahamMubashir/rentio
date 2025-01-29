@@ -44,7 +44,7 @@ function HousingSection() {
         {/* Right Section - Text & Navigation */}
         <div className="w-full lg:w-1/2 space-y-6 px-6 lg:px-12">
           {/* Navigation Tabs */}
-          <div className="p-2 flex border bg-gray-200 rounded-xl overflow-hidden w-max">
+          <div className="p-2 flex border bg-gray-100 rounded-xl overflow-hidden w-max">
             {/* <button className="px-4 py-2 text-sm font-semibold text-white bg-orange-400 rounded-l-lg">
               Nájomníci
             </button>

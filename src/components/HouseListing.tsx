@@ -77,7 +77,7 @@ function HouseListing() {
 
   return (
     <>
-      <div className="max-w-7xl mx-auto px-4 py-10">
+      <div className="max-w-7xl mx-auto px-12 py-10">
         {/* Search Button */}
         <div className=" my-4 flex flex-row justify-between">
           {/* Heading */}
